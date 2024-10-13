@@ -1,0 +1,10 @@
+D:\Documents\csharp\DoAnCuoiKy\Server\bin\Debug\Server.exe.config
+D:\Documents\csharp\DoAnCuoiKy\Server\bin\Debug\Server.exe
+D:\Documents\csharp\DoAnCuoiKy\Server\bin\Debug\Server.pdb
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.Server.resources
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.exe
+D:\Documents\csharp\DoAnCuoiKy\Server\obj\Debug\Server.pdb
